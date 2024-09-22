@@ -1,0 +1,21 @@
+{
+  "name": "carkey",
+  "displayName": "Carkey",
+  "description": "Carkey theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Carkey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Carkey-color-theme.json"
+      }
+    ]
+  }
+}
